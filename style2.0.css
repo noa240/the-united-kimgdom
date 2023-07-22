@@ -5,9 +5,10 @@ body {
   html{
     background-color: antiquewhite;
   }
- main table,td
-  { border: 1px solid;
+  table, th, td {
+    border: 1px solid;
   }
+  
   header {
     display: flex;
     justify-content: space-between;
@@ -37,8 +38,4 @@ footer{
 button{
     background-color: aqua;
     height: 30px; width: 90px;
-}
-span{
-  margin-right: 10px;
-
 }
