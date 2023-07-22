@@ -23,4 +23,13 @@ body {
         text-align: left;
         padding-left: 20px;
       }
-
+main{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: lightgray;
+}
+button{
+    background-color: aqua;
+    height: 30px; width: 90px;
+}
